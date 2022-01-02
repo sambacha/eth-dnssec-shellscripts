@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "es2020",
+    "target": "es2018",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "allowSyntheticDefaultImports": true,
+    "importHelpers": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "isolatedModules": false,
+    "noEmit": false,
+    "strict": true,
+    "lib": [
+      "es2020"
+    ]
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*.ts"]
+}

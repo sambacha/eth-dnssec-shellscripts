@@ -2,6 +2,7 @@
 
 You need to patch dnssecoracle.js package (it does not contain the necessary published dist on npm)
 
+unzip the folder in the repo (contains the dist)
 
 - 1: yarn install
 
